@@ -17,7 +17,7 @@ MOUNT_MAP["photos"]="/Volumes/photos"
 # Array of directories to be synced.
 #
 # key=source, value=destination to sync.
-SYNC_MAP["/Users/kenji/Pictures/Photos Library.photoslibrary/Masters/"]="/Volumes/photos/imac/"
+SYNC_MAP["/Users/yokenji/Pictures/Photos Library.photoslibrary/Masters/"]=${MOUNT_MAP["photos"]}
 
 # Excluding specific files from sync.
 declare SYNC_EXCLUDE

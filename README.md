@@ -25,3 +25,9 @@ SYNC_MAP["/Users/yokenji/music"]=$MOUNT_MAP["music"]
 ```
 
 Folders or files that must be excluded can be added to excludes.txt file.
+```
+.DS_Store
+.git
+.gitignore
+.txt
+```
